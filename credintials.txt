@@ -1,0 +1,5 @@
+pw- admin1234
+un - admin123
+
+landlords
+properties
